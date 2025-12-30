@@ -1,10 +1,6 @@
 ## Hi there 👋, I'm Raghav bhola
 
-#<!-- 
-**Raghavbhola/Raghavbhola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+🎓 B.Tech Student | Back-End Developer in progress  
 - 🔭 I’m currently working on 🐍Python
 - 🌱 I’m currently learning linux,aws,Agentic AI
 - 💬 Ask me about Docker
