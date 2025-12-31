@@ -2,7 +2,7 @@
 
 🎓 B.Tech Student | Back-End Developer in progress  
 - 🔭 I’m currently working on 🐍Python
-- 🌱 I’m currently learning linux,aws,Agentic AI
+- 🌱 I’m currently learning linux,aws,Generative AI Studio
 - 💬 Ask me about Docker
 - 📫 How to reach me: raghavbhola211@gmail.com 
   
