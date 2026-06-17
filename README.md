@@ -13,7 +13,7 @@
 ## 📌 About Me
 - 🔭 I’m currently working on 🐍Python
 - 🌱 I’m currently learning linux,aws,Generative AI Studio, Agentic AI
-- 💬 Ask me about Docker
+- 💬 Ask me about Django
 - 📫 How to reach me: raghavbhola211@gmail.com
 
 
