@@ -1,75 +1,174 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Raghav Bhola</h1>
-<h3 align="center">Python Developer</h3>
+<h1 align="center">
+Hi 👋, I'm Raghav Bhola
+</h1>
+
+<h3 align="center">
+Python Developer • AI Enthusiast • Open Source Learner
+</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Raghavbhola">
-    <img src="https://komarev.com/ghpvc/?username=Raghavbhola&label=Profile%20views&color=00FFFF&style=flat-square" alt="Raghavbhola's profile views" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="40%" />
+<a href="https://komarev.com/ghpvc/?username=Raghavbhola">
+<img src="https://komarev.com/ghpvc/?username=Raghavbhola&label=Profile+Views&color=0e75b6&style=flat"/>
+</a>
 
-## 📌 About Me
-- 🔭 I’m currently working on 🐍Python
-- 🌱 I’m currently learning linux,aws,Generative AI Studio, Agentic AI
-- 💬 Ask me about Django
-- 📫 How to reach me: raghavbhola211@gmail.com
+<a href="https://github.com/Raghavbhola?tab=followers">
+<img src="https://img.shields.io/github/followers/Raghavbhola?label=Followers&style=flat&color=blue"/>
+</a>
 
+<img src="https://img.shields.io/github/stars/Raghavbhola?affiliations=OWNER&style=flat&color=yellow"/>
 
-## 🧠 My Focus Areas
-- AI Engineering
-- Software Engineering
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Raghavbhola">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Raghavbhola&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Raghavbhola's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Raghavbhola&theme=dark&hide_border=true&cache_seconds=86400" alt="Raghavbhola's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Raghavbhola&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Raghav Bhola's GitHub Trophies" />
 </p>
 
+---
 
-## 🛠️ Languages & Tools
+# 💫 About Me
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /></p>
+🎓 Computer Science Student
 
-> ## Backend
-<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /></p>
+💻 Passionate about Python Development
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+🤖 Exploring Artificial Intelligence & Agentic AI
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
+🌱 Currently Learning
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+- Django
+- Linux
+- AWS
+- Docker
+- Generative AI
+- Agentic AI
 
-<p align="center">
-  <a href="https://github.com/Raghavbhola">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raghavbhola&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
+💬 Ask Me About
+
+- Python
+- Django
+- Git
+- SQL
+
+📫 Reach Me
+
+**raghavbhola211@gmail.com**
+
+---
+
+# 🚀 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
 </p>
 
-## 🔗 Connect with Me
-<p align="center"><a href="www.linkedin.com/in/raghav-bhola-99718b388" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="@path_of_anandpur" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:raghavbhola211@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+### Web Development
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,django"/>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+### Databases
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,aws"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- Building Python Projects
+- Learning AI Engineering
+- Open Source Contributions
+- Backend Development
+- Freelancing
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghavbhola&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavbhola&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavbhola&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Raghavbhola&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghavbhola&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/raghav-bhola-99718b388">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:raghavbhola211@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Raghavbhola">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
