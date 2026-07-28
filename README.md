@@ -160,11 +160,11 @@ Python Developer • AI Enthusiast • Open Source Learner
 ---
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef49-2d4d-4c2a-b7f7-f6e5f5f7b0a8.gif" width="700">
 </p>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897782-965815c1-54b4-4b87-87b4-5e55f95e2f7d.gif" width="100%">
+</p>
 ---
 
 <h3 align="center">
