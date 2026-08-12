@@ -133,6 +133,10 @@ Python Developer • AI Enthusiast • Open Source Learner
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="https://leetcode.com/u/P47sRC2XF5/">
+<img src="https://skillicons.dev/icons?i=Leetcode"/>
+</a>
+
 </p>
 
 ---
