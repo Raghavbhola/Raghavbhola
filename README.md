@@ -59,35 +59,14 @@ Python Developer • AI Enthusiast • Open Source Learner
 
 # 🚀 Tech Stack
 
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,django"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,aws"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+| Category | Technologies |
+|----------|--------------|
+| 💻 **Programming Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" /> |
+| 🌐 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css" /> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=django" /> |
+| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" /> |
+| ☁️ **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,linux" /> |
+| 🛠️ **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 
 ---
 
